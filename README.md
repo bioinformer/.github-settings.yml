@@ -53,9 +53,11 @@ Here's [a link to something else][another place].
 * CDS
 * RNA
 * Protein
-* Exon
-* Intron
-* Transcript
-* UTR
+  
+1. Exon
+2. Intron
+3. Transcript
+4. UTR
+5. CpG island
      
   

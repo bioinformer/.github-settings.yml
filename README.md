@@ -31,7 +31,7 @@ _Writing in Markdown is not that hard!_
 
 "Of course," she whispered. Then, she shouted: "All I need is a little moxie!"
 
-![MALAYSIA TRULY ASIA](https://commons.wikimedia.org/wiki/File:Flag_of_Malaysia.png)
+![](https://commons.wikimedia.org/wiki/File:Flag_of_Malaysia.png)
 
 **_"Of course," she whispered. Then, she shouted: "All I need is a little moxie!"_**
 

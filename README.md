@@ -31,7 +31,7 @@ _Writing in Markdown is not that hard!_
 
 "Of course," she whispered. Then, she shouted: "All I need is a little moxie!"
 
-![PETRONAS TOWERS]](https://en.wikipedia.org/wiki/File:The_Petronas_Twin_Towers_in_Kuala_Lumpur_%28Malaysia%29.JPG)
+![PETRONAS TOWERS](https://en.wikipedia.org/wiki/File:The_Petronas_Twin_Towers_in_Kuala_Lumpur_%28Malaysia%29.JPG)
 
 **_"Of course," she whispered. Then, she shouted: "All I need is a little moxie!"_**
 

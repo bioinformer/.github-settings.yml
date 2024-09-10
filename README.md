@@ -52,8 +52,8 @@ Here's [a link to something else][another place].
 
      PARAGRAPH-2
 
-     PARAGRAPH-3 ..
-     PARAGRAPH-4 ..
+     PARAGRAPH-3..
+     PARAGRAPH-4..
      PARAGRAPH-5
 
 

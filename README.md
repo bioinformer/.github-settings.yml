@@ -45,17 +45,7 @@ Here's [a link to something else][another place].
      [another-link]: www.google.com
 
 >      "Matthew 18:19-20 King James Version (KJV)
-     Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven. For where two or three           are gathered together in my name, there am I in the midst of them."\
-
-
-     PARAGRAPH-1
-
-     PARAGRAPH-2
-
-     PARAGRAPH-3..
-     PARAGRAPH-4..
-     PARAGRAPH-5
-
+     Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven. For where two or three           are gathered together in my name, there am I in the midst of them."
 
 * DNA
 * cDNA
@@ -68,5 +58,12 @@ Here's [a link to something else][another place].
 3. Transcript
 4. UTR
 5. CpG island
-     
-  
+
+     PARAGRAPH-1
+     PARAGRAPH-2
+
+ PARAGRAPH-3..
+ PARAGRAPH-4..
+ PARAGRAPH-5  
+
+

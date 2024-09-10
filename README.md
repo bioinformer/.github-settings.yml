@@ -44,8 +44,8 @@ Here's [a link to something else][another place].
      [another place]: www.github.com
      [another-link]: www.google.com
 
-https://en.wikipedia.org/wiki/File:The_Petronas_Twin_Towers_in_Kuala_Lumpur_%28Malaysia%29.JPG
-
+>      "Matthew 18:19-20 King James Version (KJV)
+     Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven. For where two or three           are gathered together in my name, there am I in the midst of them."
 
 
 

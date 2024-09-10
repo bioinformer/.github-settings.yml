@@ -48,6 +48,14 @@ Here's [a link to something else][another place].
      Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven. For where two or three           are gathered together in my name, there am I in the midst of them."
 
 
-
+* DNA
+* cDNA
+* CDS
+* RNA
+* Protein
+* Exon
+* Intron
+* Transcript
+* UTR
      
   
